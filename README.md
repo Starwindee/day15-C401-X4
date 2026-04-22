@@ -10,7 +10,7 @@ Nội dung tập trung vào phân tích bài toán, kiến trúc hệ thống, t
 - Dương Khoa Điềm - Product Lead
 - Đỗ Thế Anh - Architect
 - Hoàng Thị Thanh Tuyền - Cost Lead
-- Lê Bảo Khang - Slide, Presenter
+- Lê Minh Khang - Slide, Presenter
 - Nguyễn Hồ Bảo Thiên - Reliability Lead
 - Võ Thanh Chung - Tổng hợp worksheet, Presenter
 
