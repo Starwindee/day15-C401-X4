@@ -7,7 +7,7 @@
 | 0   | Dương Khoa Điềm         | Product Lead                    |
 | 1   | Đỗ Thế Anh              | Architect                       |
 | 2   | Hoàng Thị Thanh Tuyền   | Cost Lead                       |
-| 3   | Lê Bảo Khang            | Slide, Presenter                |
+| 3   | Lê Minh Khang            | Slide, Presenter                |
 | 4   | Nguyễn Hồ Bảo Thiên     | Reliability Lead                |
 | 5   | Võ Thanh Chung          | Tổng hợp worksheet, Presenter   |
 
